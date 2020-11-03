@@ -4,7 +4,7 @@
 import cirq
 
 # Get qubits and circuit
-qreg = [cirq.LineQubit(x) for x in range(1,3)]
+qreg = [cirq.LineQubit(x) for x in range(2)]
 circ = cirq.Circuit()
 
 # Add the Bell state preparation circuit
