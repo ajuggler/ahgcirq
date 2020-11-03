@@ -1,4 +1,4 @@
-""" Examples of defining a qubit """
+""" Examples of defining a qubit  """
 
 import cirq
 

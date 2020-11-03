@@ -1,4 +1,4 @@
-"""Simple program in Cirq."""
+"""Simple program in Cirq. """
 
 # Import the Cirq package
 import cirq

@@ -1,4 +1,4 @@
-"""Quantum teleportation in Cirq. Modified from an example at:
+"""Quantum teleportation in Cirq. Modified from an example at: 
 https://github.com/quantumlib/Cirq/blob/master/examples/quantum_teleportation.py
 """
 

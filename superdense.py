@@ -1,4 +1,4 @@
-"""Superdense coding in Cirq."""
+"""Superdense coding in Cirq. """
 
 # Imports
 import cirq

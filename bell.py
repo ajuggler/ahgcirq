@@ -1,4 +1,4 @@
-"""Script for preparing the Bell state |\Phi^{+}> in Cirq."""
+"""Script for preparing the Bell state |\Phi^{+}> in Cirq. """
 
 # Import the Cirq library
 import cirq
